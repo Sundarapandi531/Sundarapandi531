@@ -13,6 +13,10 @@
 
 ---
 
+### Programming Languages
+<img width="50" height="50" src="https://img.icons8.com/fluency/100/python.png" alt="python"/>
+
+
 ### 🎯 Portfolio
 
 Check out my Portfolio at
