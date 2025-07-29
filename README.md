@@ -8,7 +8,8 @@
 ---
 
 ### 🚀 Tech Stack
-- 💻 Python | Java
+- 💻 Python | Java | React
+- 🗄️ MySQL | MongoDB
 - ⚙️ Spring Boot | Node.js | FastAPI
 - ☁️ AWS | Docker | GitHub Actions
 - 📊 MySQL | MongoDB
