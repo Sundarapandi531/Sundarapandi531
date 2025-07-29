@@ -15,7 +15,6 @@
 - 🗄️ MySQL | MongoDB
 - ⚙️ React | Spring Boot | Node.js | FastAPI
 - ☁️ AWS | Docker | GitHub Actions
-- 📊 MySQL | MongoDB
 
 ---
 
@@ -32,6 +31,7 @@ Check out my Portfolio at
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sundarapandi531&show_icons=true&theme=radical)
 
+### 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SundaraPandiP2005?theme=radical&font=Boogaloo)
 
 ---
