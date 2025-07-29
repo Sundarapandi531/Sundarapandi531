@@ -1,4 +1,4 @@
-## Hi, I'm 👋 Sundara Pandi P
+# Hi, I'm 👋 Sundara Pandi P
 
 ---
 
