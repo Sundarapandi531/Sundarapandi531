@@ -35,4 +35,4 @@ Check out my Portfolio at
 ---
 
 ### 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/sundara-pandi-p-557a87295/) 
+[![LinkedIn](https://img.icons8.com/fluency/50/linkedin.png)] (https://www.linkedin.com/in/sundara-pandi-p-557a87295/) 
