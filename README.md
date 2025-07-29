@@ -4,13 +4,14 @@
 
 - ### 🎓 B.Tech Artificial Intelligence & Data Science 
 - ### 💡 Passionate about AI, Data Analytics, Cloud, and Full Stack Projects
+- ### 📫 Reach me at: sundarapandipsp@email.com  
   
 ---
 
 ### 🚀 Tech Stack
-- 💻 Python | Java | React
+- 💻 Python | Java 
 - 🗄️ MySQL | MongoDB
-- ⚙️ Spring Boot | Node.js | FastAPI
+- ⚙️ React | Spring Boot | Node.js | FastAPI
 - ☁️ AWS | Docker | GitHub Actions
 - 📊 MySQL | MongoDB
 
@@ -19,8 +20,7 @@
 ### Programming Languages
 <img width="50" height="50" src="https://img.icons8.com/fluency/100/python.png" alt="python"/><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 
-
-
+---
 
 ### 🎯 Portfolio
 
