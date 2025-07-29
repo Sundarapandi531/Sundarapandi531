@@ -5,7 +5,9 @@
 - ### 🎓 B.Tech Artificial Intelligence & Data Science 
 - ### 💡 Passionate about AI, Data Analytics, Cloud, and Full Stack Projects
 - ### 📫 Reach me at: sundarapandipsp@email.com  
-  
+
+![Profile views](https://komarev.com/ghpvc/?username=Sundarapandi531&color=blue)
+
 ---
 
 ### 🚀 Tech Stack
